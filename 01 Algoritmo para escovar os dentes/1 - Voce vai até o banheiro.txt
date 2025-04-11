@@ -1,0 +1,16 @@
+1 - Voce vai até o banheiro
+2 - Acende as luzes
+3 - Pegue a sua escova de dentes
+4 - Molhe ela (escova de dentes)
+5 - Pegue a pasta de dentes com a outra mão
+6 - Abra
+7 - Deposite a pasta nas cerdas da escova
+8 - Guarde a pasta com a tampa
+9 - Molhe a escova novamente 
+10 - Ponha na boca e esfregue todos os seus dentes usando as cerdas da escova
+11 - Escove a lingua
+12 - Enxague a boca 
+13 - Seque a boca com uma toalha de rosto
+14 - Guarde a escova de dentes
+15 - Saia do banheiro
+ E PRONTO!!!
